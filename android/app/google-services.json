@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949258860102",
+    "project_id": "microlearnapp-b1164",
+    "storage_bucket": "microlearnapp-b1164.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949258860102:android:e52e56be64f353ef1a3c47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhM5XCMIdZR3nNkdJo4yZZBa8rNn9-aFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
